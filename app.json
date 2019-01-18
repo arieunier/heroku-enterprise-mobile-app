@@ -39,7 +39,6 @@
     {"plan": "raygun:intro"},
     {"plan": "bugsnag:tauron2"},
     {"plan": "redismonitor:free"},
-    {"plan": "sparkpost:200k"},
     {"plan": "followanalytics:discovery"},
     {"plan": "blowerio:try"},
     {"plan": "pusher:sandbox"},
